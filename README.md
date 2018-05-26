@@ -2,7 +2,7 @@
 
 #### Usage
 
-Make sure you have FFmpeg installed. Put `gipher.lua` to `~/.config/mpv/scripts/` or `~/.mpv/scripts/` directory to autoload the script or load it manually with `--script=<path>`.
+Make sure you have FFmpeg and libx264 installed. Put `gipher.lua` to `~/.config/mpv/scripts/` or `~/.mpv/scripts/` directory to autoload the script or load it manually with `--script=<path>`.
 
 Script provides 4 keybindings:
 + gipher\_mark -- marks start and end position
